@@ -1,13 +1,13 @@
 Package: templater
 Title: Template for R projects
 Authors@R: c(
-    person(given = "Ciencia de Datos",
-           family = "GECI",
+    person(given = "nies futbol",
+           family = "nies futbol",
            role = c("aut", "cre", "cph"),
-           email = "ciencia.datos@islas.org.mx"
+           email = "nepo@nies.futbol"
            ))
 Config/testthat/edition: 3
-Description: Plantilla de Ciencia de Datos en GECI para proyectos en R
+Description: Plantilla de Ciencia de Datos en nies.futbol para proyectos en R
 Encoding: UTF-8
 Imports:
     R6,
